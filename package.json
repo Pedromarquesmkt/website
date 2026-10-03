@@ -1,0 +1,18 @@
+{
+  "name": "marques-marketing-landings",
+  "version": "1.0.0",
+  "description": "Landing page general y landings por servicio de Marques Marketing (La Rioja, Argentina)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
